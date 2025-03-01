@@ -1,8 +1,6 @@
 # ComfyUI_North_Noise 
 [in dev]
 
-Unsampler:
+North Noise:
 
-SD1.5 - (LCM / strength ~ 0.60-0.65 --- KSampler start at step 6/ steps 10)
-
-SDXL/Pony (lightning / strength ~ 0.75-0.85 --- KSampler start at step 6 / steps 10)
+SD1.5 - (LCM / strength ~ 3.0-4.5 --- KSampler start at step 6/ steps 10)
